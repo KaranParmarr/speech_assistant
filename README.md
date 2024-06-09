@@ -9,7 +9,7 @@ pip install playsound
 
 pip install Pyautogui
 
-Voice Commands
+# Voice Commands
 You can add other commands, but these are the ones that exist
 
 What is your name?
